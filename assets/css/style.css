@@ -12,6 +12,7 @@ article{
     background-color: rgb(243, 170, 141);
     position: relative;
     height: 700px;
+    overflow: hidden;
 }
 .userImg{
     width: 500px;
